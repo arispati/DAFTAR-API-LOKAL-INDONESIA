@@ -157,7 +157,7 @@
     },
     {
       "apiName": "Neropass API",
-      "status": false,
+      "status": true,
       "documentationUrl": "https://docs.neropass.com",
       "developer": {
         "name": "Neropass",
@@ -256,7 +256,7 @@
     },
     {
       "apiName": "Yoo Payments API",
-      "status": true,
+      "status": false,
       "documentationUrl": "https://yoo.my.id/api/docs/payments",
       "developer": {
         "name": "Yoo Digital",

@@ -3,7 +3,7 @@
   "apis": [
     {
       "apiName": "Dayoff API",
-      "status": false,
+      "status": true,
       "documentationUrl": "https://dayoffapi.vercel.app",
       "developer": {
         "name": "Gerinsp",
